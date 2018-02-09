@@ -1,5 +1,5 @@
 //Get set methods with encapsulation Example
-class GoodDog {
+public class GoodDog {
 private int size;
 public int getSize(){		//get method has a return value
 return size;
